@@ -1,0 +1,12 @@
+.env
+*.sqlite3
+*.log
+__pycache__/
+*.pyc
+venv/
+asdigital.sock
+_backup_*/
+chromedriver-linux64/
+chromedriver-linux64.zip
+google-chrome-stable_current_amd64.deb
+screenshot.py
