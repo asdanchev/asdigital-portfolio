@@ -218,7 +218,7 @@ h2{
   .grid3{ grid-template-columns:1fr; }
   .contact{ grid-template-columns:1fr; }
   h1{ font-size:34px; }
-  .nav{ display:none; } /* можно заменить на бургер позже */
+  .nav{ display:none; }
   .section-diagonal{ clip-path:none; margin-top:0; padding-top:84px; padding-bottom:84px; }
 }
 
