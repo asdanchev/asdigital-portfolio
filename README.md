@@ -12,6 +12,22 @@ The project demonstrates a clean architecture, responsive UI, and a real-world d
 
 ---
 
+## 🖼 Screenshots
+
+### Home / Hero section
+![Home hero](docs/screens/home-hero.png)
+
+### Design & approach
+![Design](docs/screens/design.png)
+
+### Works & structure
+![Works](docs/screens/works.png)
+
+### Contact & inquiry
+![Contact](docs/screens/contact.png)
+
+---
+
 ## 🧩 Tech stack
 
 - Backend: Django 5
@@ -35,20 +51,19 @@ The project demonstrates a clean architecture, responsive UI, and a real-world d
 ---
 
 ## 📂 Project structure
-
 asdigital/
-├── config/          Django project settings  
-├── portfolio/       Main app  
-├── templates/       HTML templates  
-├── static/          Static assets (CSS, images)  
-├── manage.py  
-└── README.md  
+├── config/          Django project settings
+├── portfolio/       Main app
+├── templates/       HTML templates
+├── static/          Static assets (CSS, images)
+├── manage.py
+└── README.md
 
 ---
 
 ## 🔒 Security
 
-- Secrets stored in .env (not tracked)
+- Secrets stored in `.env` (not tracked)
 - Production settings separated
 - Clean Git history (no leaked keys)
 
@@ -56,7 +71,7 @@ asdigital/
 
 ## 👤 Author
 
-Anton Danchev  
+**Anton Danchev**  
 Full-Stack Web Developer  
 
 GitHub: https://github.com/asdanchev  
