@@ -1,4 +1,7 @@
 # ASDigital Studio — Portfolio Website
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-5.2-092E20?logo=django&logoColor=white)
+[![Live](https://img.shields.io/badge/Live-asdigital.kz-0d9488?logo=vercel&logoColor=white)](https://asdigital.kz)
 
 Production-ready portfolio website for **ASDigital Studio**, built with Django.
 
